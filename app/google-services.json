@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317798977179",
+    "project_id": "mltextrecognitionapp",
+    "storage_bucket": "mltextrecognitionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317798977179:android:6a1141d07d0625cb56803e",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317798977179-opm0k88b0c51i5a3hpofdk0dmt6bfv6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oWX5c9eGZyMmj1OvL6FEB4jEZc3c-fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317798977179-opm0k88b0c51i5a3hpofdk0dmt6bfv6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
